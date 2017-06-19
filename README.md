@@ -12,11 +12,26 @@ Preprocessing -
 Image reduction, quality,
 Bash script to rip through all folders
 
-Collected music complexity, 
+Collected key, time signature, range, tempo, music complexity/difficulty.
 
+Beautiful Soup
+Regular Expressions
+Create dataframe with information
+download link and original pdf
+
+convert ./"$f" -density 600 -crop 300x300+0+0 -quality 100 ./${f%.pdf}.png
+
+![alt text]( https://method-behind-the-music.com/theory/images/fifths2-91a196f1.png "Circle of Fifths")
+
+#### Neural Network Parameter Selection
 
 
 #### Challenges
 
 * Key changes during the piece
-*
+* Minor keys
+
+#### Final Model Results
+
+
+#### Future Implementation/Features
