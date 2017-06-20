@@ -29,10 +29,12 @@ A pandas dataframe was created for future analysis of the attributes and allowed
 
 #### Neural Network Parameter Selection
 
+Hyperopt or hyperparameter optimizer
 
 #### Challenges
 
 * Key changes during the piece
+* Class Imbalances
 * Minor keys
 * Activation function Selection
 * Setting up AWS GPU server to run parameter Selection
@@ -43,7 +45,5 @@ After implementing two convolutional layers, a dense layer, and a softmax output
 
 #### Future Implementation/Features
 * Improve accuracy with more images
-
-* Difficulty, minor keys, range of keys, time signature, genre
-
-* Similarity comparison website to recommend next piece of music
+* Able to classify by difficulty, minor keys, the key range, time signature, and genre
+* Similarity comparison website to recommend next piece of music to play
