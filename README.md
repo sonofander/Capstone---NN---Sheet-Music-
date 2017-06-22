@@ -25,8 +25,6 @@ Preprocessing was used to convert the pdf images into uniform images through ima
 
 A pandas dataframe was created for future analysis of the attributes and allowed for different classifications instead of key to be linked to each song.
 
-####
-
 #### Neural Network Parameter Selection
 
 Hyperopt or hyperparameter optimizer
@@ -41,7 +39,7 @@ Hyperopt or hyperparameter optimizer
 
 
 #### Final Model Results
-After implementing two convolutional layers, a dense layer, and a softmax output with 12 predictions, accuracy improved to 82% accuracy, which compares to the 8.33% chance of guessing. I
+After implementing three convolutional layers, a dense layer, and a softmax output with 12 predictions, accuracy improved to 85% accuracy, which compares to the 8.33% chance of guessing.
 
 #### Future Implementation/Features
 * Improve accuracy with more images
